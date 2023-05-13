@@ -13,8 +13,12 @@ h2 {
     font-weight: bold;
 }
 
-ul.mainpage li {
+p,
+li {
     font-family: Verdana, Arial, sans-serif;
+}
+
+.index {
     font-size: 36px;
 }
 
