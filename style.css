@@ -8,8 +8,17 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    font-family: "Courier New",monospace;
+    font-weight: bold;
+}
+
 ul.mainpage li {
     font-family: Verdana, Arial, sans-serif;
     font-size: 36px;
 }
 
+img {
+    width: auto;
+    height: 500px;
+}
